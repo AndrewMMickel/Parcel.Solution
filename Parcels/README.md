@@ -1,12 +1,12 @@
-# _Numbers To Words_
+# _Parcels Project_
 
-#### _Numbers to Words, 10/28/2020_
+#### _Parcel prices, 10/28/2020_
 
 #### By _Andrew Mickel_
 
 ## Description
 
-_This program will ask a user to input a number. The inputted number will be transformed and outputted into the alphabetical spelling of that number._
+_A test in using MVC. This application will ask for the dimensions of a parcel and will output a price determined by the inputted dimensions._
 
 ## Setup/Installation Requirements
 
